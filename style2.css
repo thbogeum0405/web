@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+body{
+    background-color: orange;
+}
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+.header h2{
+    width: 10%;
+    height: 80px;
+    text-align: center;
+    line-height: 100px;
+}
+.header h2 img{
+    width: 100%;
+}
+.header ul{
+    width: 50%;
+    height: 40px;
+    display: flex;
+}
+.header li
