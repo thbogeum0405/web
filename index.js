@@ -1,5 +1,5 @@
 $('.wrap').fullpage({
-    anchors:['1page','2page','3page','4page','5page'],
+    anchors:['1page'],
     navigation:true
 });
 

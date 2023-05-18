@@ -8,8 +8,17 @@ ul{
 }
 .wrap .section:nth-child(1){background: url(./images/intro.jpg) top/cover;}
 .wrap .section:nth-child(2){background: url(./images/profile.jpg) top/cover;}
-.wrap .section:nth-child(3){}
-.wrap .section:nth-child(4){}
+.wrap .section:nth-child(3){background: url(./images/summer\ healing2.jpg) top/cover;}
+.wrap .section:nth-child(4){background: url(./images/summer_sale.jpg) top/cover;}
+.wrap .section:nth-child(5){background: url(./images/two_musinsa.jpg) top/cover;}
+.wrap .section:nth-child(6){background: url(./images/banner.jpg) top/cover;}
+.wrap .section:nth-child(7){background: url(./images/line.jpg) top/cover;}
+.wrap .section:nth-child(8){background: url(./images/aesop.jpg) top/cover;}
+.wrap .section:nth-child(9){background: url(./images/zab.jpg) top/cover;}
+.wrap .section:nth-child(10){background: url(./images/matin.jpg) top/cover;}
+
+.wrap .section:nth-child(11){background: url(./images/duck.jpg) top/cover;}
+.wrap .section:nth-child(12){background: url(./images/picnic.jpg) top/cover;}
 
 .gnb{
     position: fixed;
